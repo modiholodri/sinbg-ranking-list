@@ -4,7 +4,7 @@ Armaan Farid
 Chin San
 Cyrus Yeo
 Dincer Gecer
-Edward de Marta
+Edward De Marta
 Elaine Wong
 Eric Tan
 Gary Ng
