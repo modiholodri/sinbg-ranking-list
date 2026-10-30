@@ -1,21 +1,21 @@
 | |Name|Rating|+/-|Exp|
 |-|:---|:----:|:-:|--:|
 |1|William Lee|1,937|+3.8|390|
-|2|Wei Peng|1,902|-5.2|655|
+|2|Wei Peng|1,906|+3.9|660|
 |3|Gary Ng|1,821|+4.3|205|
 |4|Wen Hao|1,813|+4.4|120|
 |5|Cyrus Yeo|1,805|+4.5|85|
 |6|Julian Moneta|1,805|-4.5|25|
 |7|Dincer Gecer|1,804|+4.3|5|
 |8|Armaan Farid|1,804|+4.1|5|
-|9|Ted Tay|1,804|-3.5|148|
-|10|Modi|1,803|+3.5|3|
-|11|Mogan|1,801|+5.1|10|
-|12|Anthony Peplow|1,800|-3.9|20|
-|13|Sneha Mallela|1,800|-4.6|20|
-|14|Mohd. Irfan|1,800|-4.5|10|
-|15|Richard France|1,800|+4.4|10|
-|16|Hakan Aydin|1,800|+4.2|50|
+|9|Modi|1,803|+3.5|3|
+|10|Mogan|1,801|+5.1|10|
+|11|Anthony Peplow|1,800|-3.9|20|
+|12|Sneha Mallela|1,800|-4.6|20|
+|13|Mohd. Irfan|1,800|-4.5|10|
+|14|Richard France|1,800|+4.4|10|
+|15|Hakan Aydin|1,800|+4.2|50|
+|16|Ted Tay|1,800|-3.9|153|
 |17|Marcel Opitz|1,799|+4.5|55|
 |18|Elaine Wong|1,796|-3.9|15|
 |19|Michal Kiradziev|1,795|-4.6|5|
